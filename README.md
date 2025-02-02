@@ -1,2 +1,2 @@
-# Athleet.dev
-This is the landing page repository for Athleet.dev
+# athleet.dev
+This is the landing page repository for athleet.dev
